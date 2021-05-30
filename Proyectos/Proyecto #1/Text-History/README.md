@@ -1,1 +1,1 @@
-Codigos propios que armo por lo que voy aprendiendo, sin seguir ningun ejemplo en particular 
+Text History fueron pequeñas historias que fui creando para ejecutar desde consola, tiene su version que se autoredacta otra con caminos y una mas larga con enemigos y demas, actualmente hice su version con GUI para que sea mas amigable
